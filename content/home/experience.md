@@ -29,12 +29,12 @@ experience:
     date_start: '2020-09-14'
     date_end: ''
     description: Mainly research knowledge graph and natural language processing
-    
+
   - title: Undergraduate Student
     company: Chongqing University
     company_url: 'http://www.cqu.edu.cn/'
     location: Chongqing
     date_start: '2013-09-10'
-    date_end: '2017-6-31'
+    date_end: '2017-06-31'
     description: Major in the Internet of Things
 ---
