@@ -29,13 +29,7 @@ experience:
     date_start: '2020-09-14'
     date_end: ''
     description: Mainly research knowledge graph and natural language processing
-		# |2-
-        # Responsibilities include:
-        
-        # * Analysing
-        # * Modelling
-        # * Deploying
-        
+    
   - title: Undergraduate Student
     company: Chongqing University
     company_url: 'http://www.cqu.edu.cn/'
