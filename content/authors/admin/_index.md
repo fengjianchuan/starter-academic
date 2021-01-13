@@ -30,7 +30,7 @@ education:
     year: 2020 - 2023
   - course: BSc in IOT
     institution: Chongqing University
-    year: 2017
+    year: 2013 - 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -60,4 +60,4 @@ highlight_name: false
 
 Fengjianchuan is a postgraduate student of Fudan University. His research interests mainly include knowledge graphs, natural language processing and intelligent search applications.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
