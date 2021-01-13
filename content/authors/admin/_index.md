@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: "mailto:20210240077@fudan.edu.cn"
 - icon: github
   icon_pack: fab
   link: https://github.com/fengjianchuan
