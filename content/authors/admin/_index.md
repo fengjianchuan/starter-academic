@@ -60,4 +60,4 @@ highlight_name: false
 
 Fengjianchuan is a postgraduate student of Fudan University. His research interests mainly include knowledge graphs, natural language processing and intelligent search applications.
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
