@@ -28,7 +28,8 @@ experience:
     location: Shanghai
     date_start: '2020-09-14'
     date_end: ''
-    # description: |2-
+    description: Mainly research knowledge graph and natural language processing
+		# |2-
         # Responsibilities include:
         
         # * Analysing
